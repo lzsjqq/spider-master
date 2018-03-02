@@ -32,3 +32,4 @@ gen/
 .project  
 .DS_Store  
 /.sonarlint/
+/.recommenders/
